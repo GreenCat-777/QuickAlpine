@@ -17,4 +17,4 @@ Running Alpine Easily.
 
 
 Full disclosure I did not make any of this. I only assembled files added icons and made them scriptlets.
-Credit to @schuhumi
+Credit to [@schuhumi](https://github.com/schuhumi)
