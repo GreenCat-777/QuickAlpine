@@ -6,7 +6,7 @@ For original files look [here.](https://github.com/schuhumi/alpine_kindle_kual/r
 
 # How to setup.
 1. Extract the zip from the latest release]
-2. drag all three .sh files to your documents folder
+2. drag the documents folder to kindle. (if asked to merge folders select yes)
 
 
 # What to use for.
