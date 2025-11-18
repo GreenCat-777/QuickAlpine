@@ -8,7 +8,7 @@ Also allows you to leave alpine without a hard reset.
 # How to setup.
 1. Extract the zip from the latest release
 2. drag the documents folder to kindle. (if asked to merge folders select yes)
-3. Uninstall any other alpine versions using uninstall booklet
+3. (only if you have other alpine installs) Uninstall any other alpine versions using uninstall booklet
 4. Use Install Booklet
 5. Launch booklet (no label just alpine linux)
 6. Enjoy your Linuxry
