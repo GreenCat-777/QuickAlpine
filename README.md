@@ -1,25 +1,23 @@
-# QuickAlpine
-A application that allows you to quickly, launch, remove, and install alpine for kindle.
-It uses the [2019 alpine for kindle](https://github.com/schuhumi/alpine_kindle)
-For original files look [here.](https://github.com/schuhumi/alpine_kindle_kual/releases)
-Also allows you to leave alpine without a hard reset.
+# What Is QuickAlpine
+QuickAlpine is a Quick installer for the [reccomended version of alpine linux for kindle](https://github.com/schuhumi/alpine_kindle)
+But QuickAlpine is more than an installer, it uninstalls and launches alpine too.
+It works through the power of sh scripts and the kindle hotfix feature sh_integration which allows scripts to be on the home screen
 
 
-# How to setup.
-1. Extract the zip from the latest release
-2. drag the documents folder to kindle. (if asked to merge folders select yes)
-3. (only if you have other alpine installs) Uninstall any other alpine versions using uninstall booklet
-4. Use Install Booklet
-5. Launch booklet (no label just alpine linux)
-6. Enjoy your Linuxry
+# Prerequisites
+A jailbroken kindle
+Access to the kindle documents folder `(/mnt/us/documents for ssh users)`
+A valid internet connection (only for the install script)
 
+# Setup
+Download the QuickAlpine[v].zip from the latest release
+Extract and copy the documents folder to kindle and merge files
+**OR** copy the sh files in documents to the documents folder
 
-# What to use for.
-Examples of use cases.
-Installing Alpine Easily.
-Uninstalling Alpine Easily.
-Running Alpine Easily.
+# Usage
+If you have other versions of alpine installed uninstall them using the uninstall booklet in the library
+Use the install booklet in the library Note: It may take a while just make sure to wait till it's done you will return to the home screen
+Launch Using the alpine linux booklet (no install or uninstall label)
 
-
-Full disclosure I did not make any of this. I only assembled files added icons and made them scriptlets.
-Credit to [@schuhumi](https://github.com/schuhumi)
+# Credit/Other info
+[@schuhumi](https://github.com/schuhumi) for versions 1.0-2.0, and the alpine linux
