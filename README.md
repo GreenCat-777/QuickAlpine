@@ -18,5 +18,7 @@ Launch Using the alpine linux booklet (no label just alpine linux)
 
 # Credit/Other info
 [@schuhumi](https://github.com/schuhumi) for versions 1.0-2.0, and the alpine linux
+
 [@Kindlemodshelfguy/NemisisHubris](https://github.com/NemesisHubris) for hosting QuickAlpine as the definitive method of install on [KindleModShelf](https://kindlemodshelf.me/)
+
 [@MonkeyInPrivite](https://github.com/MonkeyInPrivite) for the idea of 4.0 to make the scripts install each other as to not clog the library
