@@ -6,18 +6,17 @@ It works through the power of sh scripts and the kindle hotfix feature sh_integr
 
 # Prerequisites
 A jailbroken kindle
-Access to the kindle documents folder `(/mnt/us/documents for ssh users)`
-A valid internet connection (only for the install script)
+Access to the kindle documents folder
+A valid internet connection (only for the install and uninstall scripts)
 
 # Setup
-Download the QuickAlpine[v].zip from the latest release
-Extract and copy the documents folder to kindle and merge files
-**OR** copy the sh files in documents to the documents folder
-
+Download the install_alpine.sh from the latest release
+copy it to the kindle's documents folder, `/documents` for usb or `/mnt/us/documents` with ssh
 # Usage
-If you have other versions of alpine installed uninstall them using the uninstall booklet in the library
-Use the install booklet in the library Note: It may take a while just make sure to wait till it's done you will return to the home screen
-Launch Using the alpine linux booklet (no install or uninstall label)
+Use the install booklet in the library do note it overwrites your alpine install if one is present. The proccess may take a while but eventually you will return to the home screen
+Launch Using the alpine linux booklet (no label just alpine linux)
 
 # Credit/Other info
 [@schuhumi](https://github.com/schuhumi) for versions 1.0-2.0, and the alpine linux
+[@Kindlemodshelfguy/NemisisHubris](https://github.com/NemesisHubris) for hosting QuickAlpine as the definitive method of install on [KindleModShelf](https://kindlemodshelf.me/)
+[@MonkeyInPrivite](https://github.com/MonkeyInPrivite) for the idea of 4.0 to make the scripts install each other as to not clog the library
