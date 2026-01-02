@@ -16,11 +16,15 @@ copy it to the kindle's documents folder, `/documents` for usb or `/mnt/us/docum
 Use the install booklet in the library do note it overwrites your alpine install if one is present. The proccess may take a while but eventually you will return to the home screen
 Launch Using the alpine linux booklet (no label just alpine linux)
 
-# Credit/Other info
-This software is hosted under the UNLICENSE license and no rights are reserved, although I would prefer you give credit to me, thanks in advance.
-
+# Credits
 [@schuhumi](https://github.com/schuhumi) for versions 1.0-2.0, and the alpine linux
 
 [@Kindlemodshelfguy/NemisisHubris](https://github.com/NemesisHubris) for hosting QuickAlpine as the definitive method of install on [KindleModShelf](https://kindlemodshelf.me/)
 
 [@MonkeyInPrivite](https://github.com/MonkeyInPrivite) for the idea of 4.0 to make the scripts install each other as to not clog the library
+
+# License
+This project is released into the public domain under The Unlicense.
+No rights reserved.
+
+Attribution is appreciated but is not required.
