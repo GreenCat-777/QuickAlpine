@@ -7,7 +7,7 @@ It works through the power of sh scripts and the kindle hotfix feature sh_integr
 # Prerequisites
 A jailbroken kindle
 Access to the kindle documents folder
-A valid internet connection (only for the install and uninstall scripts)
+A valid internet connection (only for the install script)
 
 # Setup
 Download the install_alpine.sh from the latest release
