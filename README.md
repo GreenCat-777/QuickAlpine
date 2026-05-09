@@ -1,4 +1,5 @@
 ![Available on KindleForge](https://greencat-777.github.io/AKF.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U11TVK1A)
 
 # What Is QuickAlpine
 QuickAlpine is a Quick installer for the [recommended version of Alpine Linux for Kindle](https://github.com/schuhumi/alpine_kindle)
